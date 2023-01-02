@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VAT Calculator</string>
+    <string name="txt1">Enter Unit Price</string>
+
+</resources>
